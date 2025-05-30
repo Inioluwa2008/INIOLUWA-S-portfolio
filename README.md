@@ -39,7 +39,7 @@ This file handles all visual styling:
 - Responsive design with media queries
 - Button effects, image animations, and more
 
-### `main.js` (Not included in this repo)
+### `main.js` 
 Referenced in `index.html` for future JavaScript enhancements like:
 - Scroll animations using ScrollReveal
 - Navigation menu toggle on small screens
